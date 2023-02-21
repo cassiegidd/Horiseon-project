@@ -15,7 +15,8 @@ body {
     color: #ffffff;
 }
 
-/*.header*/ h1 {
+/*removed header class:redundant*/ 
+h1 {
     display: inline-block;
     font-size: 48px;
     
