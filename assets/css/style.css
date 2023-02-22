@@ -108,8 +108,8 @@ h3 {
     max-width: 150px;
 }
 
-
-.search-engine-optimization {
+/*changed improper semantics and combined repetative classes*/
+.info {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -118,33 +118,8 @@ h3 {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+/*changed improper semantics and combined repetative classes*/
+.info img {
     max-height: 200px;
 }
 
