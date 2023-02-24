@@ -12,6 +12,9 @@ In accepting this challange I was able to work toward my own mastery of HTML and
 This webpage can be used as a resource to connect those who need help with their on-line presence with the professionals at Horiseon who have the expertise and knowledge to assist.
 The user can use links at the top of the webpage to navigate to whatever content is most applicable to them. 
 
+Live link to deployed page:
+https://cassiegidd.github.io/Horiseon-project/
+
 <img width="1440" alt="Screen Shot 2023-02-23 at 4 19 17 PM" src="https://user-images.githubusercontent.com/124100826/221054569-bf6217f7-7037-4e52-86c7-d4fe8a858958.png">
 
 <img width="1440" alt="Screen Shot 2023-02-23 at 4 19 40 PM" src="https://user-images.githubusercontent.com/124100826/221054795-1bbc6891-57a0-441e-a247-c124ca57e32b.png">
